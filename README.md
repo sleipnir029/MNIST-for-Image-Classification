@@ -7,7 +7,7 @@ This dataset can be considered as a [*Hello World!*](https://www.reddit.com/r/Pr
 
 The digits in MNIST dataset have been size-normalized and centered in a fixed-size image. It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
 
-As a newbie myself, I have had helped from different sources mostly from [*this*](https://colab.research.google.com/github/AviatorMoser/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb#scrollTo=EDQyoqdA-gFN) and [*that*](https://youtu.be/wQ8BIBpya2k) sources. You can read the article I wrote while working on this [Digit Recognizer using MNIST dataset](https://rzaman.site/blog/Digit-recognizer-using-MNIST-dataset)
+As a newbie myself, I have had helped from different sources mostly from [*this*](https://colab.research.google.com/github/AviatorMoser/keras-mnist-tutorial/blob/master/MNIST%20in%20Keras.ipynb#scrollTo=EDQyoqdA-gFN) and [*that*](https://youtu.be/wQ8BIBpya2k) sources. You can read the article I wrote while working on this [Digit Recognizer using MNIST dataset](https://rzaman.site/projects/2-hand-written-digit-recognizer)
 
 Prediction: Here is the prediction on the test class.
 
